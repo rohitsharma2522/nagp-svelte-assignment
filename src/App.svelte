@@ -1,5 +1,3 @@
-<svelte:options tag="my-login-page" />
-
 <script>
   import { onMount } from "svelte";
   import { get } from 'svelte/store'
